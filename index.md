@@ -13,3 +13,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ### wow so coded
+
+# _ITS TASK LIST TIME_
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
